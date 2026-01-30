@@ -1,86 +1,86 @@
-# 👋 ¡Qué onda! Soy Orlando
+# 🛸 ¡Qué onda! Soy Orlando
 
-Soy **estudiante de Desarrollo de Software** en la **Universidad Tecnológica de Chihuahua (UTCH)** y apasionado por la tecnología, el desarrollo de aplicaciones y los proyectos que mezclan lo académico con problemas reales.
-
-Actualmente combino mis estudios con proyectos personales y escolares, muchos de ellos enfocados en **desarrollo web, bases de datos y backend**, además de apoyar en proyectos reales relacionados con **climatización y energía solar**.
+Soy **estudiante de Desarrollo de Software** en la **UTCH** y me late construir cosas reales: apps web, backend, bases de datos y proyectos que sí sirven en el mundo real (no nomás tareas). 🐦‍⬛
 
 ---
 
-## 🚀 Sobre mí
+## 📈 Mis stats (modo racha 😈)
 
-- 📍 Vivo en **Chihuahua, México**
-- 🎓 Estudiante de **Desarrollo de Software**
-- 💻 Me gusta programar, aprender nuevas tecnologías y entender *cómo funcionan las cosas por dentro*
-- 🧠 Fan de la tecnología, lo geek, anime y videojuegos
-- 🛠️ Me interesa crear sistemas **útiles, claros y bien estructurados**, no solo que “funcionen”
+[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-## 🧑‍💻 Tecnologías y herramientas
+## 🧠 Sobre mí
 
-### Lenguajes
-- Java  
-- JavaScript  
-- TypeScript  
-- SQL  
-- HTML5 & CSS3  
-
-### Frameworks y tecnologías
-- Angular  
-- Spring Boot  
-- Node.js / Express  
-- Docker  
-- REST APIs  
-
-### Bases de datos
-- SQL Server  
-- MySQL  
-- MongoDB  
-
-### Herramientas
-- Git & GitHub  
-- Visual Studio Code  
-- IntelliJ IDEA  
-- Azure Data Studio  
-- Docker Desktop  
-- StackBlitz  
+- 📍 Chihuahua, México
+- 🎓 Estudiante de **Desarrollo de Software (UTCH)**
+- 💻 Full-stack en entrenamiento: **Frontend + Backend + DB**
+- 🐧 Aprendiendo y usando **Linux** cada vez más
+- 🐦‍⬛ Me gusta entender *por qué* funciona algo, no solo que funcione
 
 ---
 
-## 📂 Proyectos destacados
+## 🧰 Tech stack (el arsenal 🐦‍⬛)
 
-🔹 **Sistema de Inventarios (PEPS / UEPS / Promedio)**  
-Aplicación web con Angular + Spring Boot para gestionar productos, entradas, salidas y reportes de inventario.  
-Incluye filtros por fecha y producto, exportación a CSV y cálculos en frontend y backend.
+### 🧪 Lenguajes
+- Java
+- JavaScript
+- TypeScript
+- SQL
+- HTML5 & CSS3
 
-🔹 **Aplicaciones Web Académicas**  
-Proyectos en HTML, CSS y JavaScript enfocados en lógica, interacción y consumo de APIs públicas.
+### 🧩 Frameworks / Tecnologías
+- Angular
+- Spring Boot
+- Node.js / Express
+- REST APIs
+- Docker
 
-🔹 **TengoClima – Sitio Web Informativo**  
-Proyecto real para una empresa de climatización y energía solar.  
-Incluye diseño web, estructura de contenido y despliegue.
+### 🗃️ Bases de datos
+- SQL Server
+- MySQL
+- MongoDB
+
+### 🐧 Herramientas & entorno
+- Git & GitHub
+- VS Code / IntelliJ IDEA
+- Azure Data Studio
+- Docker Desktop
+- StackBlitz
+- Linux (🐧🐧🐧)
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 🧪 Proyectos destacados (en modo laboratorio 😈)
 
-- Arquitectura backend más robusta con Spring Boot  
-- Mejores prácticas en Angular  
-- Linux y administración básica de sistemas  
-- Diseño de bases de datos orientadas a aplicaciones reales  
+🧾 **Sistema de Inventarios (PEPS / UEPS)**  
+App web con Angular + Spring Boot para gestionar productos, entradas, salidas y reportes.  
+Incluye filtros por fecha/producto, exportación a CSV y cálculos de reportes.
+
+🌐 **Apps Web Académicas (HTML/CSS/JS)**  
+Proyectos centrados en lógica, DOM, eventos y consumo de APIs públicas.
+
+☀️❄️ **TengoClima – Sitio Web Informativo**  
+Proyecto real de web informativa para una empresa de climatización y energía solar.
 
 ---
 
-## 🎯 Objetivo
+## 🐧 Aprendiendo ahorita mismo
 
-Seguir creciendo como desarrollador, reforzar mis bases técnicas y crear proyectos que me ayuden a **aprender, practicar y aportar valor real**, tanto en lo académico como en lo profesional.
+- Mejor arquitectura backend con Spring Boot
+- Buenas prácticas en Angular
+- Linux y administración base (🐧)
+- Modelado y diseño de bases de datos para apps reales
+
+---
+
+## 🎯 Objetivo (modo cuervo 🐦‍⬛)
+
+Seguir creciendo como desarrollador y armar proyectos cada vez más sólidos, claros y bien estructurados.
 
 ---
 
 ## 📫 Contacto
 
-- GitHub: *Estás aquí 😄*  
-- Siempre abierto a colaborar, aprender y mejorar  
-
----
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ODelgadoDev)](https://git.io/streak-stats)
+- GitHub: *estás aquí 🛸*
+- Abierto a colaborar, aprender y mejorar 😈🐧🐦‍⬛
