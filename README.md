@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/0nQX9ZP.jpg" width="600" />
+  <img src="<img width="832" height="827" alt="image" src="https://github.com/user-attachments/assets/32fe1ecc-60f8-4b9d-94f6-41e4ba6ee0f3" />
+" width="600" />
 </p>
 
 # 🛸 ¡Qué onda! Soy Orlando
