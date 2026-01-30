@@ -7,11 +7,6 @@
   <img src="https://img.shields.io/badge/Linux-Penguin-black?style=for-the-badge&logo=linux" />
 </p>
 
-<p align="center">
-  <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ed76e6ff-805b-4a90-873b-2c40946456af" />
-" width="600" />
-</p>
-
 # 🛸 ¡Qué onda! Soy Orlando
 
 Soy **estudiante de Desarrollo de Software** en la **UTCH** y me late construir cosas reales: apps web, backend, bases de datos y proyectos que sí sirven en el mundo real (no nomás tareas). 🐦‍⬛
