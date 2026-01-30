@@ -83,4 +83,4 @@ Seguir creciendo como desarrollador, reforzar mis bases técnicas y crear proyec
 - Siempre abierto a colaborar, aprender y mejorar  
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ODelgadoDev&theme=dark&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ODelgadoDev)](https://git.io/streak-stats)
