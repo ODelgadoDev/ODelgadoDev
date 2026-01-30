@@ -4,10 +4,7 @@ Soy **estudiante de Desarrollo de Software** en la **UTCH** y me late construir 
 
 ---
 
-## 📈 Mis stats (modo racha 😈🐦‍⬛)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ODelgadoDev&theme=tokyonight&hide_border=true)
----
+![GitHub Streak](https://streak-stats.demolab.com?user=ODelgadoDev&theme=github-dark-blue&hide_border=true)
 
 ## 🧠 Sobre mí
 
