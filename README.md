@@ -4,10 +4,9 @@ Soy **estudiante de Desarrollo de Software** en la **UTCH** y me late construir 
 
 ---
 
-## 📈 Mis stats (modo racha 😈)
+## 📈 Mis stats (modo racha 😈🐦‍⬛)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=ODelgadoDev&theme=tokyonight&hide_border=true)
 ---
 
 ## 🧠 Sobre mí
@@ -82,5 +81,5 @@ Seguir creciendo como desarrollador y armar proyectos cada vez más sólidos, cl
 
 ## 📫 Contacto
 
-- GitHub: *estás aquí 🛸*
+- GitHub: *estás aquí 🛸* Correo: orando.da0024@gmail.com
 - Abierto a colaborar, aprender y mejorar 😈🐧🐦‍⬛
