@@ -15,12 +15,6 @@ Me gusta aprender a fondo, entender **por qué funciona algo**, no solo que func
 
 ---
 
-## 📈 Mis stats (modo racha 😈🐦‍⬛)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ODelgadoDev&theme=tokyonight&hide_border=true)
-
----
-
 ## 🧠 Sobre mí
 
 - 📍 Chihuahua, México
