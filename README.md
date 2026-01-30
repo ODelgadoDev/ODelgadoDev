@@ -1,10 +1,29 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Framework-Angular-red?style=for-the-badge&logo=angular" />
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-brightgreen?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/Database-SQL%20%7C%20MongoDB-blue?style=for-the-badge&logo=microsoftsqlserver" />
+  <img src="https://img.shields.io/badge/Linux-Penguin-black?style=for-the-badge&logo=linux" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/0nQX9ZP.jpg" width="600" />
+</p>
+
 # 🛸 ¡Qué onda! Soy Orlando
 
 Soy **estudiante de Desarrollo de Software** en la **UTCH** y me late construir cosas reales: apps web, backend, bases de datos y proyectos que sí sirven en el mundo real (no nomás tareas). 🐦‍⬛
 
+Me gusta aprender a fondo, entender **por qué funciona algo**, no solo que funcione. 🐧😈
+
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ODelgadoDev&theme=github-dark-blue&hide_border=true)
+## 📈 Mis stats (modo racha 😈🐦‍⬛)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ODelgadoDev&theme=tokyonight&hide_border=true)
+
+---
 
 ## 🧠 Sobre mí
 
@@ -12,71 +31,75 @@ Soy **estudiante de Desarrollo de Software** en la **UTCH** y me late construir 
 - 🎓 Estudiante de **Desarrollo de Software (UTCH)**
 - 💻 Full-stack en entrenamiento: **Frontend + Backend + DB**
 - 🐧 Aprendiendo y usando **Linux** cada vez más
-- 🐦‍⬛ Me gusta entender *por qué* funciona algo, no solo que funcione
+- 🐦‍⬛ Me gusta entender el *por qué* de las cosas, no solo ejecutar código
 
 ---
 
 ## 🧰 Tech stack (el arsenal 🐦‍⬛)
 
 ### 🧪 Lenguajes
-- Java
-- JavaScript
-- TypeScript
-- SQL
-- HTML5 & CSS3
+- Java  
+- JavaScript  
+- TypeScript  
+- SQL  
+- HTML5 & CSS3  
 
 ### 🧩 Frameworks / Tecnologías
-- Angular
-- Spring Boot
-- Node.js / Express
-- REST APIs
-- Docker
+- Angular  
+- Spring Boot  
+- Node.js / Express  
+- REST APIs  
+- Docker  
 
 ### 🗃️ Bases de datos
-- SQL Server
-- MySQL
-- MongoDB
+- SQL Server  
+- MySQL  
+- MongoDB  
 
 ### 🐧 Herramientas & entorno
-- Git & GitHub
-- VS Code / IntelliJ IDEA
-- Azure Data Studio
-- Docker Desktop
-- StackBlitz
-- Linux (🐧🐧🐧)
+- Git & GitHub  
+- Visual Studio Code  
+- IntelliJ IDEA  
+- Azure Data Studio  
+- Docker Desktop  
+- StackBlitz  
+- Linux 🐧🐧🐧  
 
 ---
 
-## 🧪 Proyectos destacados (en modo laboratorio 😈)
+## 🧪 Proyectos destacados (modo laboratorio 😈)
 
 🧾 **Sistema de Inventarios (PEPS / UEPS)**  
-App web con Angular + Spring Boot para gestionar productos, entradas, salidas y reportes.  
-Incluye filtros por fecha/producto, exportación a CSV y cálculos de reportes.
+Aplicación web con Angular + Spring Boot para gestionar productos, entradas, salidas y reportes de inventario.  
+Incluye filtros por fecha y producto, exportación a CSV y cálculos de reportes.
 
-🌐 **Apps Web Académicas (HTML/CSS/JS)**  
-Proyectos centrados en lógica, DOM, eventos y consumo de APIs públicas.
+🌐 **Aplicaciones Web Académicas**  
+Proyectos en HTML, CSS y JavaScript enfocados en lógica, DOM, eventos y consumo de APIs públicas.
 
 ☀️❄️ **TengoClima – Sitio Web Informativo**  
-Proyecto real de web informativa para una empresa de climatización y energía solar.
+Proyecto real de sitio web informativo para una empresa de climatización y energía solar.
 
 ---
 
-## 🐧 Aprendiendo ahorita mismo
+## 🐧 Aprendiendo actualmente
 
-- Mejor arquitectura backend con Spring Boot
-- Buenas prácticas en Angular
-- Linux y administración base (🐧)
-- Modelado y diseño de bases de datos para apps reales
+- Arquitectura backend más sólida con Spring Boot  
+- Buenas prácticas en Angular  
+- Linux y administración básica de sistemas 🐧  
+- Diseño y modelado de bases de datos para apps reales  
 
 ---
 
-## 🎯 Objetivo (modo cuervo 🐦‍⬛)
+## 🎯 Objetivo (visión cuervo 🐦‍⬛)
 
-Seguir creciendo como desarrollador y armar proyectos cada vez más sólidos, claros y bien estructurados.
+Seguir creciendo como desarrollador, construir proyectos cada vez más sólidos y claros, y convertir el conocimiento académico en soluciones reales.
+
+> 🧙‍♂️ *“One does not simply push to production… without testing.”*
 
 ---
 
 ## 📫 Contacto
 
-- GitHub: *estás aquí 🛸* Correo: orando.da0024@gmail.com
+- 📧 **Correo:** orlando.da0024@gmail.com  
+- 🛸 GitHub: estás aquí  
 - Abierto a colaborar, aprender y mejorar 😈🐧🐦‍⬛
