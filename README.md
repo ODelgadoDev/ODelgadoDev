@@ -5,7 +5,7 @@
 
 ### 🛸 ¡Saludos, mundo! Soy Orlando
 
-**Estudiante de Ingeniería en Desarrollo de Software | UTCH**
+**Estudiante de Ingeniería en Desarrollo E Inovacción de Software | UTCH**
 
 Desarrollador full-stack en formación, con experiencia construyendo aplicaciones web, APIs REST y sistemas empresariales reales.
 
